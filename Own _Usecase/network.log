@@ -1,0 +1,6 @@
+2026-02-18 17:03:00 | Connection from 192.168.1.5 to port 22
+2026-02-18 17:03:00 | Connection from 192.168.1.5 to port 23
+2026-02-18 17:03:00 | Connection from 192.168.1.5 to port 25
+2026-02-18 17:03:00 | Connection from 192.168.1.5 to port 80
+2026-02-18 17:03:00 | [ALERT] Possible port scan detected from 192.168.1.5
+2026-02-18 17:03:00 | Connection from 192.168.1.10 to port 80
